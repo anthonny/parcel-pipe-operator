@@ -1,0 +1,14 @@
+{
+  "name": "tube-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "serve": "parcel index.html"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "parcel": "^1.12.4"
+  }
+}
