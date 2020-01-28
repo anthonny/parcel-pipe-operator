@@ -5,7 +5,7 @@ https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Op%C3%A9rateurs/T
 
 ```js
 const double = x => x * 2
-const add100 = x => x + 102
+const add100 = x => x + 100
 
 const setResult = result => document.getElementById("result").innerText = result
 
