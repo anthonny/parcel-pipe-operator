@@ -6,9 +6,10 @@
   "scripts": {
     "serve": "parcel index.html"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
+    "@babel/core": "^7.8.3",
+    "@babel/plugin-proposal-pipeline-operator": "^7.8.3",
     "parcel": "^1.12.4"
   }
 }
